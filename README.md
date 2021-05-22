@@ -1,4 +1,4 @@
 # CountriesKotlin
 
 
-Basic application which show some countries flag and details.
+Basic application which shows some countries flag and details.
